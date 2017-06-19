@@ -1,4 +1,4 @@
-#Faenza Cupertino
+# Faenza Cupertino
 
 Just a fork of [this](https://www.gnome-look.org/content/show.php/Faenza-Cupertino?content=129008) theme.
 
